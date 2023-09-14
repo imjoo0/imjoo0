@@ -1,3 +1,4 @@
+<a href="[버튼을 눌렀을 때 이동할 링크](https://www.notion.so/imju0/bc8cf73ab86a4235910f70677694a278?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 ### Hi there 👋
 
 - 🔭 I’m currently working on purpleacademy as a backend engineer
