@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/>
 <br>
 ✔ I'm Intermediate at...<br>
-<img src="https://img.shields.io/badge/graphql-green?style=flat-square&logo=graphql&logoColor=green"/>
+<img src="https://img.shields.io/badge/graph-ql-green?style=flat-square&logo=graph-ql&logoColor=green"/>
 <img src="https://img.shields.io/badge/Spring-F7DF1E?style=plastic&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-blue?style=plastic&logo=Docker&logoColor=white"/>
