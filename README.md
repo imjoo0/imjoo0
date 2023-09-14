@@ -28,6 +28,6 @@
   <img src="https://img.shields.io/badge/Next.js-61677A?style=plastic&logo=Next.js&logoColor=white"/>
   <br>
   <br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=flag-india)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjoo0&show_icons=true&theme=flag-india)
   ![reversal](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer)
 </div>
