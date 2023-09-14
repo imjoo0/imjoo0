@@ -1,5 +1,5 @@
 <div align="center" style="background-color:#E4E4D0; padding: 20px;">
- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HELLO%20imjoo0&fontSize=60" /> 
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HELLO%20iamjoo0&fontSize=45" /> 
  <h3 style="color:#E4E4D0;">Thank you for visiting my repository<br><br>
     <a href="https://hits.seeyoufarm.com">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimjoo0&count_bg=%23AEC3AE&title_bg=%2394A684&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false"/>
