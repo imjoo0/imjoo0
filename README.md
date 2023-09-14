@@ -10,7 +10,7 @@
   </h3>
   <br>
 
-  🖐 I'm Backend Developer. <br>
+   I'm Backend Developer🖐 <br>
   <br>
   ✔ I'm Advanced at...<br>
   <img src="https://img.shields.io/badge/django-E55604?style=plastic&logo=django&logoColor=white"/>
