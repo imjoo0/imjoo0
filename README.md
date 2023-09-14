@@ -29,5 +29,5 @@
   <br>
   <br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=flag-india)
-  ![reversal](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer)
+  ![reversal](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer)
 </div>
