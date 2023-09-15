@@ -13,19 +13,24 @@
    I'm Backend Developer🖐 <br>
   <br>
   ✔ I'm Advanced at...<br>
-  <img src="https://img.shields.io/badge/django-E55604?style=plastic&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFB000?style=plastic&logo=JavaScript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Python-26577C?style=plastic&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-E55604?style=for-the-badge&logo=django&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/JavaScript-FFB000?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-26577C?style=for-the-badge&logo=Python&logoColor=white"/>
   <br>
   ✔ I'm Intermediate at...<br>
-  <img src="https://img.shields.io/badge/graphql-662549?style=plastic&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-004225?style=plastic&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-22668D?style=plastic&logo=MySQL&logoColor=white"/>
-  <br>
+  <img src="https://img.shields.io/badge/graphql-662549?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-004225?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-22668D?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  
+<br>
   ✔ I'm beginner at...<br>
-  <img src="https://img.shields.io/badge/Docker-337CCF?style=plastic&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-33BBC5?style=plastic&logo=React&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Next.js-61677A?style=plastic&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-337CCF?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-33BBC5?style=for-the-badge&logo=React&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Next.js-61677A?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> <br>
   <br>
   <br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjoo0&show_icons=true&theme=flag-india)
