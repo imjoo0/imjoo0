@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/Docker-337CCF?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-33BBC5?style=for-the-badge&logo=React&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Next.js-61677A?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/Amazon EC2-96B6C5?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon S3-EEE0C9?style=for-the-badge&logo=Amazon S3&logoColor=white"> <br>
   <br>
   <br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjoo0&show_icons=true&theme=flag-india)
