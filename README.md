@@ -31,6 +31,6 @@
   <img src="https://img.shields.io/badge/Amazon S3-EEE0C9?style=for-the-badge&logo=Amazon S3&logoColor=white"> <br>
   <br>
   <br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjoo0&show_icons=true&theme=flag-india)
+  ![imjoo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjoo0&show_icons=true&theme=flag-india)
   ![reversal](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer)
-  </div>
+ </div>
